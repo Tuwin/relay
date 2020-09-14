@@ -19,7 +19,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/very"
+          "path": "/v2ray"
         }
       }
     }

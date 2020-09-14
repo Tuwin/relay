@@ -5,7 +5,7 @@ if ! [ -x "$(command -v docker-compose)" ]; then
   exit 1
 fi
 
-domains=(relay.privacynom.cf)
+domains=(relay.pirvacynom.cf)
 rsa_key_size=4096
 data_path="./data/certbot"
 email="vultruse@tuta.io" # Adding a valid address is strongly recommended

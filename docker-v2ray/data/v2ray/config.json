@@ -8,11 +8,13 @@
     {
       "port": 30909,
       "listen": "0.0.0.0",
-      "protocol": "vless",
+      "protocol": "vmess",
       "settings": {
         "clients": [
           {
-            "id": "f7f1e866-2f4c-4811-bff4-716c27c38fc6"
+            "id": "f7f1e866-2f4c-4811-bff4-716c27c38fc6",
+            "level": 1,
+            "alterId": 64
           }
         ]
       },
